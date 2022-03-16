@@ -51,5 +51,9 @@ In package.json add below entry,
 Execute below command to upload packages to nexus repo.
 
 npm publish
+
+
+
+change all log files
   
 
