@@ -54,3 +54,5 @@ npm publish
   
 
 publish
+
+publicly
