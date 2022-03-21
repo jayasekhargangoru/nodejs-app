@@ -25,10 +25,7 @@ app.get('/mithuntechnologies', function(request, response) {
 	
     response.write("<h2><center>Welcome to  Mithun Technologies. Please Contact +91-9980923226 for more information or send an email to devopstrainingblr@gmail.com <center></h2>" );
     response.end();
-    
-  })
- 
-
+})
 //app.get("/html", function(req,res){
 app.get("/html", function(req,res){
     res.set("Content-Type","text/html");
