@@ -1,4 +1,4 @@
-FROM node:10
+FROM node:16.15.0-slim
 WORKDIR /usr/app
 COPY . .
 RUN npm install
